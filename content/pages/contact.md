@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >
-      Construisons quelque chose de grand ensemble. \<br>
+      Construisons quelque chose de grand ensemble. 
 
 
       Remplissez notre formulaire de contact ou envoyez-nous un email à

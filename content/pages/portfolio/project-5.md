@@ -55,7 +55,6 @@ sections:
       j'ai eu à travailler doublement et penser à un rendu qui sera presque le
       même, à la fois pour les francophones que les anglophones.
   - type: image_section
-    image: images/work-magazine-3.jpg
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section

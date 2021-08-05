@@ -47,6 +47,7 @@ sections:
     image: /images/WIA - Flyer Campaign.png
     image_alt: Flyer of WIA event
     width: wide
+    caption: Flyer of WIA event
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa

@@ -7,10 +7,9 @@ sections:
     title: >-
       Designer Web Marketing Digital de Formation et UI/UX Designer de
       Spécialisation !
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      J'améliore l'interface et l'expérience de mes utilisateurs en concevant
+      des produits à la fois agréables et ergonomiques !
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

@@ -44,7 +44,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-        image_alt: 'Yoen Agondjo '
+        image_alt: Yoen Agondjo de profil
   - type: cta_section
     section_id: cta
     title: Become a Team Player

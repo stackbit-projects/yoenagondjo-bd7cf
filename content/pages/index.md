@@ -76,7 +76,7 @@ sections:
     title: Quelques super pouvoirs révélés
   - type: testimonials_section
     section_id: testimonials
-    title: Témoignage
+    title: Témoignages
     subtitle: 'Ce que les clients et partenaires disent '
     col_number: three
     testimonials:

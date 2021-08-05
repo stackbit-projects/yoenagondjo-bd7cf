@@ -28,9 +28,6 @@ sections:
   - type: grid_section
     section_id: team
     title: Un aperçu de qui je suis
-    subtitle: >-
-      Je veux réunir les africains et résoudre les problèmes de l'Afrique et du
-      reste du monde grâce au numérique.
     col_number: two
     grid_items:
       - title: Yoen Agondjo

@@ -33,18 +33,6 @@ sections:
       reste du monde grâce au numérique.
     col_number: two
     grid_items:
-      - title: Gustav Purpleson
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
       - title: Gordon Norman
         image: images/team-3.png
         subtitle: Creative Producer

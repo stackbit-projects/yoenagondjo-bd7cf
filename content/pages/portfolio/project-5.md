@@ -59,11 +59,11 @@ sections:
     width: wide
   - type: text_section
     content: |
-      ### Polices utilisées
+      #### Polices utilisées
 
       Lors de la conception de ce graphique, j'ai utilisé trois polices.
 
-      ### Couleurs utilisées
+      #### Couleurs utilisées
 
       *   Violet
 
@@ -71,9 +71,9 @@ sections:
 
       *   Dégradé
 
-      ### Logos et icônes insérés
+      #### Logos et icônes insérés
 
-      ### Photos insérées
+      #### Photos insérées
 seo:
   title: Nature Magazine
   description: This is the sample project description

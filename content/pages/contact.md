@@ -54,7 +54,7 @@ sections:
           - Installation de logiciels
           - Installation de système d'exploitation
           - Rédaction de CV
-          - 'Présentation d''une '
+          - Présentation d'un projet
       - input_type: textarea
         name: message
         label: Message

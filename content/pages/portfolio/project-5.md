@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/charming-anemone.png
     image_alt: Flyer d'une compagne de WIA
-    caption: This is the caption of the image
+    caption: Flyer d'une compagne de WIA
     width: wide
   - type: text_section
     content: >-

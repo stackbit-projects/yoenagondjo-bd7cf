@@ -35,9 +35,9 @@ sections:
     grid_items:
       - title: Yoen Agondjo
         subtitle: UI/UX DESIGNER
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
+        content: >
+          Je veux réunir les africains et résoudre les problèmes de l'Afrique et
+          du reste du monde grâce au numérique.
         actions: []
         image_alt: Yoen Agondjo de profil
   - type: cta_section

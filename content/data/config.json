@@ -38,7 +38,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Yoen Agondjo. Tous les droits réservés. Cette JAMstack site a été con <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Yoen Agondjo. Tous les droits réservés. Cette JAMstack site a été concu par <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
         "social_links": [
             {

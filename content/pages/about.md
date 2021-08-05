@@ -34,7 +34,6 @@ sections:
     col_number: two
     grid_items:
       - title: Yoen Agondjo
-        image: images/team-5.png
         subtitle: UI/UX DESIGNER
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa

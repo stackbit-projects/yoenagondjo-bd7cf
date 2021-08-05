@@ -27,7 +27,7 @@ sections:
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
-    title: Un aper
+    title: Un apercu de qui je suis
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:

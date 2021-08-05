@@ -27,7 +27,7 @@ sections:
       (+241) 77 45 05 35
 
 
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Je travaille ici →](https://goo.gl/maps/ZjRQWiXfiTfoKddf6)
     form_id: contactForm
     form_action: /thank-you
     form_fields:

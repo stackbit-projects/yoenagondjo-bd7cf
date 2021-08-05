@@ -1,6 +1,6 @@
 ---
 title: Tous mes travaux
-subtitle: 'Consultez tous '
+subtitle: Consultez tous les travaux que j'ai pu réaliser depuis
 layout_style: mosaic
 seo:
   title: Portfolio

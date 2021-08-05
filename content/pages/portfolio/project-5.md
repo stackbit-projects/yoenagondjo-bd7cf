@@ -11,15 +11,14 @@ sections:
     caption: Flyer d'une compagne de WIA
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      # CONTEXTE&#xA;&#xA;Cela fait des mois que j'ai pu faire la connaissance
+      de Mme. Mariama Touré, qui gère Women of Impact Academy, autrefois connu
+      sous le nom de Women of Impact Organization (WIO).
+
+
+      Il me fut demandé de réaliser la conception d'un flyer pour un évènement
+      concernant l'assistance des 
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2

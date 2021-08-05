@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Les technologies que j'utilise
-    subtitle: Regardez tout ce qui fait ma force
+    subtitle: 'Depuis '
     col_number: three
     grid_items:
       - title: Business design

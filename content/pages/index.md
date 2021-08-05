@@ -39,8 +39,8 @@ sections:
     section_id: services
     title: Les technologies que j'utilise
     subtitle: >-
-      Depuis l'obtention de mon diplôme, je n'arrête plus d'apprendre de
-      nouveaux outils
+      Depuis l'obtention de mon diplôme, je n'arrête plus d'apprendre à me
+      servir de nouveaux outils
     col_number: three
     grid_items:
       - title: Business design

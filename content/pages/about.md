@@ -28,9 +28,9 @@ sections:
 
       Mais les choses ne se sont pas déroulées telles que je le pensais… Après
       l'obtention de mon baccalauréat en série scientifique C, je me suis
-      totalement désorienté : j'ai commencé par des études de Droit (1 an), de
+      totalement désorienté : j'ai commencé par des études de *Droit (1 an)*, de
       *Management Des Organisations (3 ans)*, j'ai suivi une formation en
-      *Pâtisserie* (durant les vacances) et, un jour, j'ai intégré la première
+      *Pâtisserie (durant les vacances) *et, un jour, j'ai intégré la première
       fabrique [Simplon](https://www.simplon.co) au Gabon : [École
       241](https://www.ecole241.org/).
 
@@ -43,8 +43,8 @@ sections:
       caractère et de devenir un Designer Web Marketing Digital.
 
 
-      Oui, grâce aux cours de leadership reçu par le coach (certifié **John C.
-      Maxwell**) Sylvère Boussamba, j'ai énormément pu atteindre dépasser mes
+      Et grâce aux cours de leadership reçu par le coach (certifié **John C.
+      Maxwell**) Sylvère Boussamba, j'ai énormément pu apprendre à dépasser mes
       limites et pu comprendre que *sans l'amour, l'intelligence ne sert à
       rien*.
 

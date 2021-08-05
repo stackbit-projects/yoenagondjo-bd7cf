@@ -49,11 +49,11 @@ sections:
     width: regular
     caption: Flyer of WIA event
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      WIA est basé au Canada. Les flyers conçus sont à la fois réalisés en
+      français et en anglais. Donc pour ce visuel, comme les autres auparavant,
+      j'ai eu à travailler doublement et penser à un rendu qui sera presque le
+      même, à la fois pour les francophones que les anglophones.
   - type: image_section
     image: images/work-magazine-3.jpg
     image_alt: Nature Magazine 3

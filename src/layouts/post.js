@@ -78,7 +78,7 @@ export default class Post extends React.Component {
                 {(postCount > 1) && (
                     <nav className="section section--posts">
                         <div className="container container--lg">
-                            <h2 className="section__title line-top">Read Next</h2>
+                            <h2 className="section__title line-top">Lire le suivant</h2>
                             {_.map(posts, (post, index) => (
                                 <React.Fragment key={index}>
                                     {this.renderPostNavLinks(post, index, posts, postCount, postUrl)}

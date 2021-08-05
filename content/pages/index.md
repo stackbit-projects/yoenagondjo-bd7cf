@@ -15,7 +15,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: 'Travaux récents '
-    subtitle: Explore case studies
+    subtitle: Explorer tout ce que j'ai pu réaliser jusqu'à présent
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio

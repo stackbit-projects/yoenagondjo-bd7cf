@@ -21,7 +21,25 @@ sections:
 
 
       Il me fut demandé de réaliser la conception d'un flyer pour un évènement
-      concernant l'assistance des
+      concernant l'assistance des jeunes filles de la République de Guinée. 
+
+
+      Les conditions à respecter furent les suivantes :
+
+
+      *   Une fille de couleur foncée âgée entre 16-25 ans
+
+
+      *   La date de l'évènement
+
+
+      *   Un sac avec des accessoires 
+
+
+      *   Le numéro de téléphone de WIA
+
+
+      *   Respecter la charte graphique
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2

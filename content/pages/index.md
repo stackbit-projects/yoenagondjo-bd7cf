@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients
-    subtitle: A few of the companies we're proud to work with
+    subtitle: Quelques-unes des entreprises avec lesquelles je suis fier de travailler
     col_number: three
     grid_items:
       - image: images/logo-1.svg
@@ -81,7 +81,7 @@ sections:
       - author: Desmond Eagle
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: CEO and founder, A Company
+        position: 'CEO and founder, A Company'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -89,7 +89,7 @@ sections:
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
-        position: CTO, Another Company
+        position: 'CTO, Another Company'
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.

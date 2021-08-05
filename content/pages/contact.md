@@ -50,7 +50,7 @@ sections:
           - Création de site web
           - Création d'une landing page
           - Conception de bannières publicitaires
-          - lorem-ipsum
+          - Accompagnement sur un projet numérique
       - input_type: textarea
         name: message
         label: Message

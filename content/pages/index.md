@@ -37,7 +37,7 @@ sections:
         image_alt: Logo 5
   - type: grid_section
     section_id: services
-    title: Les technologies que j'utilise
+    title: 'Mes superpouvoirs '
     subtitle: >-
       Depuis l'obtention de mon diplôme, je n'arrête plus d'apprendre à me
       servir de nouveaux outils

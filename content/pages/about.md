@@ -44,7 +44,7 @@ sections:
             no_follow: false
             type: action
         image_alt: Yoen Agondjo de profil
-    subtitle: ± Avoir un aper
+    subtitle: ± Avoir un apercu visuel...
   - type: cta_section
     section_id: cta
     title: Et Si Je Te Forrmais ?

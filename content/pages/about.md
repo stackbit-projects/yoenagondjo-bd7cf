@@ -50,11 +50,11 @@ sections:
   - type: cta_section
     section_id: cta
     title: Et Si Je Te Forrmais ?
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: >
+      Je suis toujours à la recherche de personnes formidables pour former une
+      équipe de super héros ! Si vous êtes intéressé(e) à apprendre de moi ou
+      travailler avec moi , veuillez envoyer un e-mail à yoenagondjo@gmail.com
+      avec votre CV et le poste/domaine qui vous intéresse.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light

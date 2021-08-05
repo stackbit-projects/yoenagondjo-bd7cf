@@ -1,6 +1,8 @@
 ---
 title: Tous mes travaux
-subtitle: Consultez tous les travaux que j'ai pu réaliser depuis
+subtitle: >-
+  Consultez tous les travaux que j'ai pu réaliser depuis que je suis dans le
+  domaine du numérique
 layout_style: mosaic
 seo:
   title: Portfolio

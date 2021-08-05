@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/panoramic-mustard.png
     image_alt: HPB Agro-Consulting
-    caption: This is the caption of the image
+    caption: Logo de HPB Agro-Consulting
     width: wide
   - type: text_section
     content: >-

@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients & Partenaires
-    subtitle: Les clients et partenaires avec lesquelles je suis fier de travailler
+    subtitle: Les clients et partenaires avec lesquels je suis fier de travailler
     col_number: three
     grid_items:
       - image: images/logo-1.svg

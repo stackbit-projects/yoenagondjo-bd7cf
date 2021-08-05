@@ -67,7 +67,7 @@ export default class Project extends React.Component {
                 {(projectCount > 1) && (
                     <nav className="section section--portfolio">
                         <div className="container container--lg">
-                            <h2 className="section__title line-top">More Projects</h2>
+                            <h2 className="section__title line-top">Plus de projets</h2>
                             {_.map(projects, (project, index) => (
                                 <React.Fragment key={index}>
                                     {this.renderProjectNavLinks(project, index, projects, projectCount, projectUrl)}

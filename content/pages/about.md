@@ -38,12 +38,7 @@ sections:
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
           eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
         image_alt: Yoen Agondjo de profil
   - type: cta_section
     section_id: cta

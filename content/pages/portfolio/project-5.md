@@ -12,13 +12,16 @@ sections:
     width: wide
   - type: text_section
     content: >
-      # CONTEXTE&#xA;&#xA;Cela fait des mois que j'ai pu faire la connaissance
-      de Mme. Mariama Touré, qui gère Women of Impact Academy, autrefois connu
-      sous le nom de Women of Impact Organization (WIO).
+      # CONTEXTE
+
+
+      Cela fait des mois que j'ai pu faire la connaissance de Mme. Mariama
+      Touré, qui gère Women of Impact Academy, autrefois connu sous le nom de
+      Women of Impact Organization (WIO).
 
 
       Il me fut demandé de réaliser la conception d'un flyer pour un évènement
-      concernant l'assistance des 
+      concernant l'assistance des
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2

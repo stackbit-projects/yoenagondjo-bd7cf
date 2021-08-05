@@ -58,14 +58,12 @@ sections:
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: |+
-      ## Polices utilisées
+    content: |
+      ### Polices utilisées
 
       Lors de la conception de ce graphique, j'ai utilisé trois polices.
 
-
-
-      ## Couleurs utilisées
+      ### Couleurs utilisées
 
       *   Violet
 
@@ -73,14 +71,9 @@ sections:
 
       *   Dégradé
 
-      ## Logos insérés
+      ### Logos et icônes insérés
 
-
-
-      ## Photos insérées
-
-
-
+      ### Photos insérées
 seo:
   title: Nature Magazine
   description: This is the sample project description

@@ -30,7 +30,7 @@ sections:
       l'obtention de mon baccalauréat en série scientifique C, je me suis
       totalement désorienté : j'ai commencé par des études de *Droit (1 an)*, de
       *Management Des Organisations (3 ans)*, j'ai suivi une formation en
-      *Pâtisserie (durant les vacances) *et, un jour, j'ai intégré la première
+      *Pâtisserie (durant les vacances)* et, un jour, j'ai intégré la première
       fabrique [Simplon](https://www.simplon.co) au Gabon : [École
       241](https://www.ecole241.org/).
 

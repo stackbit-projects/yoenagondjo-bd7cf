@@ -1,5 +1,5 @@
 ---
-title: 'Mon Histoire '
+title: "Mon Histoire \U0001F92F"
 hide_title: false
 sections:
   - type: content_section

@@ -42,6 +42,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/agondjo.yoen",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
@@ -61,15 +70,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/agondjo.yoen",
-                "style": "icon",
-                "icon": "facebook",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },

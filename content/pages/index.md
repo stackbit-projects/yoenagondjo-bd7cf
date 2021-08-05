@@ -17,7 +17,7 @@ sections:
     title: 'Travaux récents '
     subtitle: Explorer tout ce que j'ai pu réaliser jusqu'à présent
     projects_number: 6
-    view_all_label: View All
+    view_all_label: 'Tout '
     view_all_url: portfolio
   - type: grid_section
     section_id: clients

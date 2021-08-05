@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Designer Web Marketing Digital de formation et UI/UX Designer de
+      Designer Web Marketing Digital de Formation et UI/UX Designer de
       Spécialisation !
     content: >-
       We are a brand and design practice. We work closely with you, your team to

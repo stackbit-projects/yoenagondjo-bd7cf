@@ -50,6 +50,7 @@ sections:
           - Création de site web
           - Création d'une landing page
           - lorem-ipsum
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

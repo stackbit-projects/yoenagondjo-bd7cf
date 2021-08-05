@@ -7,7 +7,7 @@ thumb_image_alt: Flyer d'une compagne de WIA
 sections:
   - type: image_section
     image: images/work-magazine-1.jpg
-    image_alt: Nature Magazine 1
+    image_alt: Flyer d'une com
     caption: This is the caption of the image
     width: wide
   - type: text_section

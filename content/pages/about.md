@@ -43,7 +43,7 @@ sections:
             url: '#'
             style: icon
             icon: linkedin
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         image_alt: Yoen Agondjo de profil

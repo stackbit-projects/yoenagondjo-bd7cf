@@ -1,5 +1,5 @@
 ---
-title: H
+title: HBP Agro-Consulting
 subtitle: Logo
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg

@@ -11,15 +11,47 @@ sections:
     caption: Logo de HPB Agro-Consulting
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >+
+      # CONTEXTE
+
+
+      J'ai eu à réaliser ce logo pour Mr. Patrick qui ouvre un cabinet de
+      conseil et de consulting dans le domaine de l'élevage et de l'agriculture.
+
+
+      Les deux produits phares de ce cabinet sont :
+
+
+      *   La poule
+
+
+      *   Le porc
+
+
+      Dans la conception du logo, j'ai voulu faire ressortir ces informations,
+      le tout en mettant en avant le nom de l'entreprise, son slogan et en
+      utilisant les deux couleurs les plus utilisées dans le domaine de
+      l'agriculture : le vert et l'orange, suivies du noir.
+
+
+
+
+      ##### CODES COULEURS UTILISÉS
+
+
+      *   Le vert 
+
+
+      *   L'orange
+
+
+      *   Le noir
+
+
+
+
+      ##### POLICES UTILISÉES
+
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2

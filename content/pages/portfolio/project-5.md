@@ -16,12 +16,12 @@ sections:
 
 
       Cela fait des mois que j'ai pu faire la connaissance de Mme. Mariama
-      Touré, qui gère Women of Impact Academy, autrefois connu sous le nom de
-      Women of Impact Organization (WIO).
+      Touré, qui gère Women of Impact Academy (WIA), autrefois connu sous le nom
+      de Women of Impact Organization (WIO).
 
 
       Il me fut demandé de réaliser la conception d'un flyer pour un évènement
-      concernant l'assistance des jeunes filles de la République de Guinée. 
+      concernant l'assistance des jeunes filles de la République de Guinée.
 
 
       Les conditions à respecter furent les suivantes :
@@ -33,10 +33,13 @@ sections:
       *   La date de l'évènement
 
 
-      *   Un sac avec des accessoires 
+      *   Un sac avec des accessoires
 
 
       *   Le numéro de téléphone de WIA
+
+
+      *   Insérer le logo de WIA
 
 
       *   Respecter la charte graphique

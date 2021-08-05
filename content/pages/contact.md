@@ -44,7 +44,7 @@ sections:
       - input_type: select
         name: sujet
         label: Quels services cherchez vous ?
-        default_value: Sélectionnez s'il vous pla
+        default_value: Sélectionnez s'il vous plaît
         options:
           - Branding
           - Design

@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Je Suis UI/UX Designer !
+    title: >-
+      Designer Web Marketing Digital de Formation & UI/UX Designer de
+      Spécialisation !
     content: >
       J'améliore l'interface et l'expérience de mes utilisateurs en concevant
       des produits à la fois agréables et ergonomiques !

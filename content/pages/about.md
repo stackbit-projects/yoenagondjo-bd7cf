@@ -49,7 +49,7 @@ sections:
         image_alt: Yoen Agondjo de profil
   - type: cta_section
     section_id: cta
-    title: 'Et Si '
+    title: Et Si Je Te Forrmais ?
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to

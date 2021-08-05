@@ -28,9 +28,7 @@ sections:
   - type: grid_section
     section_id: team
     title: Un aperçu de qui je suis
-    subtitle: >-
-      Je veux Je comprends que ce formulaire stocke mes informations soumises
-      afin que je puisse être contacté.
+    subtitle: 'Je veux réunir les africains '
     col_number: three
     grid_items:
       - title: Gustav Purpleson

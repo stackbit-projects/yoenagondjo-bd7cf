@@ -54,6 +54,7 @@ sections:
           - Installation de logiciels
           - Installation de système d'exploitation
           - Rédaction de CV
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

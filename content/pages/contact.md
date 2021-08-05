@@ -49,7 +49,7 @@ sections:
           - Conception de logo
           - Création de site web
           - Création d'une landing page
-          - 'Conception '
+          - Conception de bannières publicitaires
           - lorem-ipsum
       - input_type: textarea
         name: message

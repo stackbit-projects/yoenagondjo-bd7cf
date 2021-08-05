@@ -104,6 +104,7 @@ sections:
       - label: C'est parti !
         url: /contact
         style: button
+        icon: facebook
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light

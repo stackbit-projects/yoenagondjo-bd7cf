@@ -8,7 +8,7 @@ sections:
       Construisons quelque chose de grand ensemble.
 
 
-      Remplissezce formulaire de contact ou envoyez-moi un email à
+      Remplissez ce formulaire de contact ou envoyez moi un email à
       yoenagondjo@gmail.com.
 
 

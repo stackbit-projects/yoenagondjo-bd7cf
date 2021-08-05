@@ -75,7 +75,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Témoignage
-    subtitle: What our Clients say
+    subtitle: 'Ce que les clients et ârtenaires disent '
     col_number: three
     testimonials:
       - author: Desmond Eagle

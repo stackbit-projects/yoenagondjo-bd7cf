@@ -98,9 +98,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: 'Allez, Travaillons Maintenant !'
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Dites moi ''Mbôlô'' à l'adresse mail yoenagondjo@gmail.com ou dites moi
+      plus sur vos projets et comment nous pourrons collaborer.
     actions:
       - label: Let's start
         url: /contact

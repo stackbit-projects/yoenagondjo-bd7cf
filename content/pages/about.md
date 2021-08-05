@@ -3,7 +3,7 @@ title: "Mon Histoire \U0001F92F"
 hide_title: false
 sections:
   - type: content_section
-    content: >
+    content: >+
       Je m'appelle **Yoen Agondjo**, je suis né à Libreville -Gabon- en 1998.
       Depuis petit, j'ai toujours été fasciné par tout ce qui tourne autour de
       l'**informatique**, de la **mécanique**, de l'**électronique**, bref, des
@@ -12,7 +12,7 @@ sections:
 
       Ceux qui me côtoient ont tendance à dire que je suis calme, gentil, fou et
       un grand rêveur ! Oui, je suis un geek et comme tous les geeks, j'ai mille
-      et une idées qui trottent dans les rues de mon cerveau chaque jour. 
+      et une idées qui trottent dans les rues de mon cerveau chaque jour.
 
 
       Un jour, dans mon enfance, j'ai regardé un film à la télévision qui
@@ -22,7 +22,9 @@ sections:
       ordinateur''...
 
 
-      J'avais décidé que je serai, un jour, comme eux : des  
+      J'avais décidé que je serai, un jour, comme eux : un expert dans le
+      domaine du numérique qui sait résoudre n'importe quel problème.
+
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section

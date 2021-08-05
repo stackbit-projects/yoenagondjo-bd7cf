@@ -1,5 +1,5 @@
 ---
-title: HP Agro-Consulting
+title: HPB Agro-Consulting
 subtitle: Logo
 date: '2021-02-02'
 thumb_image: /images/Logo - HPB Agro Consulting.png

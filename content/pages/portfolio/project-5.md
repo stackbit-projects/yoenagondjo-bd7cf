@@ -3,7 +3,7 @@ title: Women of Impact Academy
 subtitle: Flyer d'évènement
 date: '2021-08-03'
 thumb_image: /images/WIA - Flyer Campagne.png
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: 'Flyer d''une compagne '
 sections:
   - type: image_section
     image: images/work-magazine-1.jpg

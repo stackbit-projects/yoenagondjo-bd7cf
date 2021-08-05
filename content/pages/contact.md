@@ -46,7 +46,7 @@ sections:
         label: Quels services cherchez vous ?
         default_value: Sélectionnez s'il vous plaît
         options:
-          - Conception de logos
+          - Conception de logo
           - Design
           - Digital
       - input_type: textarea

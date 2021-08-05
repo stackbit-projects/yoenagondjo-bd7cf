@@ -53,6 +53,7 @@ sections:
           - Accompagnement sur un projet numérique
           - Installation de logiciels
           - Installation de système d'exploitation
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

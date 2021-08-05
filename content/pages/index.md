@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: UI/UX Designer de Spécialisation !
+    title: Je Suis UI/UX Designer !
     content: >
       J'améliore l'interface et l'expérience de mes utilisateurs en concevant
       des produits à la fois agréables et ergonomiques !

@@ -54,7 +54,7 @@ sections:
           - Installation de logiciels
           - Installation de système d'exploitation
           - Rédaction de CV
-          - null
+          - Conception d'une présentation
       - input_type: textarea
         name: message
         label: Message

@@ -73,6 +73,7 @@ sections:
           - Communication design
           - Social media
           - Product design
+    title: 'Quelques super pouvoirs '
   - type: testimonials_section
     section_id: testimonials
     title: Témoignage

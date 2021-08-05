@@ -51,7 +51,7 @@ sections:
           - Création d'une landing page
           - Conception de bannières publicitaires
           - Accompagnement sur un projet numérique
-          - lorem-ipsum
+          - Installation de logiciels
       - input_type: textarea
         name: message
         label: Message

@@ -65,7 +65,7 @@ export default class Header extends React.Component {
                     {hasNav && !_.isEmpty(navLinks) && (
                         <React.Fragment>
                             <button id="navbar__open" className="navbar__toggle" ref={this.menuOpenRef} onClick={this.handleMenuToggle.bind(this)}>
-                                <span className="screen-reader-text">Open Menu</span>
+                                <span className="screen-reader-text">Ouvrir le Menu</span>
                                 <span className="icon-menu" aria-hidden="true" />
                             </button>
                             <div className="navbar__menu-container">

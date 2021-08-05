@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: 'Regardez tout ce que je maîtrise  '
+    subtitle: Regardez tout ce qui fait ma force
     col_number: three
     grid_items:
       - title: Business design

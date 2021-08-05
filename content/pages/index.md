@@ -12,7 +12,7 @@ sections:
       des produits à la fois agréables et ergonomiques !
   - type: portfolio_section
     section_id: derniers-projets
-    layout_style: tiles
+    layout_style: mosaic
     title: 'Travaux récents '
     subtitle: Explorez tout ce que j'ai pu réaliser jusqu'à présent
     projects_number: 6

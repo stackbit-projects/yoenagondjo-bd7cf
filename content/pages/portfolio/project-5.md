@@ -1,6 +1,6 @@
 ---
 title: Women of Impact Academy
-subtitle: 'Flyer '
+subtitle: Flyer d'évènement
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview

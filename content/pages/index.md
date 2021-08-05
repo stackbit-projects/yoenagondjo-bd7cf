@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Clients
+    title: Clients & Partenaires
     subtitle: Quelques-unes des entreprises avec lesquelles je suis fier de travailler
     col_number: three
     grid_items:

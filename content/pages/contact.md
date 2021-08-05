@@ -42,7 +42,7 @@ sections:
         default_value: Votre adresse mail
         is_required: true
       - input_type: select
-        name: subject
+        name: sujet
         label: What services are you looking for?
         default_value: Please select
         options:

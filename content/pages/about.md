@@ -28,7 +28,7 @@ sections:
   - type: grid_section
     section_id: team
     title: Un aperçu de qui je suis
-    subtitle: An optional subtitle of the section
+    subtitle: 'Je veux '
     col_number: three
     grid_items:
       - title: Gustav Purpleson

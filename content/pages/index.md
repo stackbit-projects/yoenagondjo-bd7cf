@@ -11,7 +11,7 @@ sections:
       J'améliore l'interface et l'expérience de mes utilisateurs en concevant
       des produits à la fois agréables et ergonomiques !
   - type: portfolio_section
-    section_id: latest-projects
+    section_id: derniers-projets
     layout_style: tiles
     title: 'Travaux récents '
     subtitle: Explorez tout ce que j'ai pu réaliser jusqu'à présent

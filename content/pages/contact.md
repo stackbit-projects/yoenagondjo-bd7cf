@@ -4,11 +4,11 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >+
+    content: >
       Construisons quelque chose de grand ensemble.
 
 
-      Remplissez notre formulaire de contact ou envoyez-nous un email à
+      Remplissezce formulaire de contact ou envoyez-moi un email à
       yoenagondjo@gmail.com.
 
 
@@ -28,7 +28,6 @@ sections:
 
 
       [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:

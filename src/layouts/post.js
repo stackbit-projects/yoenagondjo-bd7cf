@@ -71,7 +71,7 @@ export default class Post extends React.Component {
                     )}
                     <footer className="post__meta">
                         <div className="container container--md">
-                            Posted on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                            Publié  <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                         </div>
                     </footer>
                 </article>

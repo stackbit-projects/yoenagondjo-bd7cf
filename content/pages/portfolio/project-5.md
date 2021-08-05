@@ -46,7 +46,7 @@ sections:
   - type: image_section
     image: /images/WIA - Flyer Campaign.png
     image_alt: Flyer of WIA event
-    width: wide
+    width: regular
     caption: Flyer of WIA event
   - type: text_section
     content: >-

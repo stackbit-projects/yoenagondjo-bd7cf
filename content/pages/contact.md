@@ -21,8 +21,7 @@ sections:
       ### GABON
 
 
-      Ancienne Sobraga, Libreville \<br>
-
+      Ancienne Sobraga, Libreville
 
 
       (+241) 77 45 05 35

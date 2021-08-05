@@ -74,7 +74,7 @@ sections:
           - Product design
     title: Quelques super pouvoirs révélés
   - type: testimonials_section
-    section_id: testimonials
+    section_id: temoignages
     title: Témoignages
     subtitle: 'Ce que les clients et partenaires disent '
     col_number: three

@@ -61,7 +61,7 @@ sections:
         label: Message
         default_value: Votre message
       - input_type: checkbox
-        name: consent
+        name: accord
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.

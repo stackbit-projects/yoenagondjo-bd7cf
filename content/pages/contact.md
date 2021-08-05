@@ -52,6 +52,7 @@ sections:
           - Conception de bannières publicitaires
           - Accompagnement sur un projet numérique
           - Installation de logiciels
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

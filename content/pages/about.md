@@ -33,7 +33,7 @@ sections:
       reste du monde grâce au numérique.
     col_number: two
     grid_items:
-      - title: Brandon Guidelines
+      - title: Yoen Agondjo
         image: images/team-5.png
         subtitle: Graphic Designer
         content: >-

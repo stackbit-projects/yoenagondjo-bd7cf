@@ -38,7 +38,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Yoen Agondjo. Tous les droits réservés. Cette JAMstack site a été conçue par <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Yoen Agondjo</a>. Créer la vôtre <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">maintenant !</a>",
+        "content": "&copy; Yoen Agondjo. Tous les droits réservés. ",
         "has_social": true,
         "social_links": [
             {

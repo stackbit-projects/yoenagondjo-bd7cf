@@ -2,7 +2,7 @@
 title: HBP Agro-Consulting
 subtitle: Logo
 date: '2021-02-02'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: /images/Logo - HPB Agro Consulting.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section

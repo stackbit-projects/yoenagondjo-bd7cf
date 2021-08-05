@@ -38,7 +38,14 @@ sections:
         content: >
           Je veux réunir les africains et résoudre les problèmes de l'Afrique et
           du reste du monde grâce au numérique.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: Yoen Agondjo de profil
   - type: cta_section
     section_id: cta

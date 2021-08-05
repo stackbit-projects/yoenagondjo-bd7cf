@@ -102,7 +102,7 @@ sections:
       Dites moi ''Mbôlô'' à l'adresse mail yoenagondjo@gmail.com ou dites moi
       plus sur vos projets et comment nous pourrons collaborer.
     actions:
-      - label: Let's start
+      - label: Commencons maintenant !
         url: /contact
         style: button
     image: images/cta.svg

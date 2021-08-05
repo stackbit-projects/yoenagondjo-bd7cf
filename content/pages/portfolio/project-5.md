@@ -7,7 +7,7 @@ thumb_image_alt: Flyer d'une compagne de WIA
 sections:
   - type: image_section
     image: /images/charming-anemone.png
-    image_alt: Flyer d'une com
+    image_alt: 'Flyer d''une compagne de '
     caption: This is the caption of the image
     width: wide
   - type: text_section

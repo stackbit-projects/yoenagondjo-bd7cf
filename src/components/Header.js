@@ -71,7 +71,7 @@ export default class Header extends React.Component {
                             <div className="navbar__menu-container">
                                 <div className="navbar__scroller">
                                     <button id="navbar__close" className="navbar__toggle" onClick={this.handleMenuToggle.bind(this)}>
-                                        <span className="screen-reader-text">Close Menu</span>
+                                        <span className="screen-reader-text">Fermer le Menu</span>
                                         <span className="icon-close" aria-hidden="true" />
                                     </button>
                                     <ul className="navbar__menu menu">

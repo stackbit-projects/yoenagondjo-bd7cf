@@ -45,7 +45,7 @@ sections:
       *   Respecter la charte graphique
   - type: image_section
     image: /images/WIA - Flyer Campaign.png
-    image_alt: Nature Magazine 2
+    image_alt: Flyer of WIA event
     width: wide
   - type: text_section
     content: >-

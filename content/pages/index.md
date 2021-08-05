@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Les technologies que j'utilise
-    subtitle: 'Depuis '
+    subtitle: 'Depuis l''obtention de mon diplôme, je n''arrête plus d''apprendre'
     col_number: three
     grid_items:
       - title: Business design

@@ -47,7 +47,7 @@ sections:
     subtitle: ± Avoir un aperçu visuel...
   - type: cta_section
     section_id: cta
-    title: Et Si Je Te Forrmais ?
+    title: Et Si Je Te Formais ?
     content: >
       Je suis toujours à la recherche de personnes formidables pour former une
       équipe de super héros ! Si vous êtes intéressé(e) à apprendre de moi ou

@@ -55,7 +55,7 @@ sections:
           - Installation de système d'exploitation
           - Rédaction de CV
           - Présentation d'un projet
-          - 'Cours '
+          - Cours de création de site ou d'infographie
       - input_type: textarea
         name: message
         label: Message

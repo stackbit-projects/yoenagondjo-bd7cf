@@ -65,7 +65,7 @@ sections:
         label: >-
           Je comprends que ce formulaire stocke mes informations soumises afin
           que je puisse être contacté.
-    submit_label: Send Message
+    submit_label: Envoyer la requête
 seo:
   title: Contact
   description: This is the contact page

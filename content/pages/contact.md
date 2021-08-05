@@ -47,7 +47,7 @@ sections:
         default_value: Sélectionnez s'il vous plaît
         options:
           - Conception de logo
-          - Design
+          - Création de site web
           - Digital
       - input_type: textarea
         name: message

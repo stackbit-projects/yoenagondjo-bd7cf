@@ -43,7 +43,7 @@ sections:
         is_required: true
       - input_type: select
         name: sujet
-        label: What services are you looking for?
+        label: Quels services cherchez vous?
         default_value: Please select
         options:
           - Branding

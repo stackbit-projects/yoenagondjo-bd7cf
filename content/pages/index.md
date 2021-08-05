@@ -74,7 +74,7 @@ sections:
           - Product design
   - type: testimonials_section
     section_id: testimonials
-    title: Testimonials
+    title: Témoignage
     subtitle: What our Clients say
     col_number: three
     testimonials:

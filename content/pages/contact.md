@@ -48,7 +48,7 @@ sections:
         options:
           - Conception de logo
           - Création de site web
-          - Digital
+          - Création d'une landing page
       - input_type: textarea
         name: message
         label: Message

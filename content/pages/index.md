@@ -37,7 +37,7 @@ sections:
         image_alt: Logo 5
   - type: grid_section
     section_id: services
-    title: 'Les technologies '
+    title: Les technologies que j'utilise
     subtitle: Regardez tout ce qui fait ma force
     col_number: three
     grid_items:

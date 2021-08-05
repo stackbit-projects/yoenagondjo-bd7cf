@@ -7,7 +7,7 @@ thumb_image_alt: Logo de HBP Agro-Consulting
 sections:
   - type: image_section
     image: /images/panoramic-mustard.png
-    image_alt: Subtle 1
+    image_alt: HPB Agro-Consulting
     caption: This is the caption of the image
     width: wide
   - type: text_section

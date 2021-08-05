@@ -44,7 +44,7 @@ sections:
 
       *   Respecter la charte graphique
   - type: image_section
-    image: images/work-magazine-2.jpg
+    image: /images/WIA - Flyer Campaign.png
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section

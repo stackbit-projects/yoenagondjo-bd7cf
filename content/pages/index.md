@@ -36,6 +36,7 @@ sections:
       - image: /images/Logo de Esct Gabon.png
         image_alt: Logo 3
         title: Esct Gabon
+        subtitle: École de C
       - image: images/logo-4.svg
         image_alt: Logo 4
       - image: images/logo-5.svg

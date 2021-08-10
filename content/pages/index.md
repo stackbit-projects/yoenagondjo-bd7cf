@@ -41,11 +41,6 @@ sections:
         image_alt: Logo de Women of Impact Academy
         title: Women of Impact Academy
         subtitle: Bilingual Leadership Academy
-      - title: École 241
-        subtitle: École de Formation aux Métiers du Numérique
-        image_alt: École d'Informatique
-        actions: []
-        type: grid_item
   - type: grid_section
     section_id: services
     subtitle: >-

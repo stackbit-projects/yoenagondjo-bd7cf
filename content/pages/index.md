@@ -42,7 +42,7 @@ sections:
         title: Women of Impact Academy
         subtitle: Bilingual Leadership Academy
       - image: /images/Logo de Women Of Impact Organization.png
-        image_alt: Logo de Women of Impact Academy
+        image_alt: Logo de Women of Impact Organization
         title: Women of Impact Organization
         subtitle: 'Académie de Leadership Bilingue '
       - title: École 241

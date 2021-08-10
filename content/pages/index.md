@@ -44,7 +44,7 @@ sections:
       - image: /images/Logo de Women Of Impact Organization.png
         image_alt: Logo 5
         title: Women of Impact Organization
-        subtitle: 'Academie '
+        subtitle: 'Académie  '
       - title: École 241
         subtitle: École de Formation aux Métiers du Numérique
         image_alt: École d'Informatique

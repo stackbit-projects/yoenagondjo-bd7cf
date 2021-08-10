@@ -60,14 +60,14 @@ sections:
           *   Stratégie de communication
       - title: Brand design
         image: /images/Logos (6).png
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Développement de marque
+          *   Naming
+          *   Identité de marque
+          *   Systèmes de conception
+          *   Développement de concept
+          *   Implantation et gestion de la marque
+          *   Typographie 
       - title: Développement Web & Autres Outils
         image: /images/Logos (5).png
         content: |

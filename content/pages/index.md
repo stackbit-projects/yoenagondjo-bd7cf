@@ -37,7 +37,7 @@ sections:
         image_alt: Logo d'ESCT Gabon
         title: Esct Gabon
         subtitle: École Supérieure de Commerce et de Technologie
-      - image: images/logo-4.svg
+      - image: /images/Logo de Women Of Impact Academy.png
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5

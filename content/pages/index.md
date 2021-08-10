@@ -44,7 +44,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: Logo 5
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: École de formation numérique
         image_alt: École d'Informatique
         actions: []
         type: grid_item

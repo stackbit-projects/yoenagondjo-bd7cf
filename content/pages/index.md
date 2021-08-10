@@ -29,7 +29,7 @@ sections:
         subtitle: Startup Studio
         title: Start X 241
         actions: []
-      - image: images/logo-2.svg
+      - image: /images/Logo de Ogooué Labs.png
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3

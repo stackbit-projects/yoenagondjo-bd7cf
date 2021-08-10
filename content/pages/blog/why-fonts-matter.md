@@ -1,5 +1,5 @@
 ---
-title: Comment avoir un abonnement d'un an gratuit à Canva ?
+title: Comment avoir un abonnement d'un an à Canva ?
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing

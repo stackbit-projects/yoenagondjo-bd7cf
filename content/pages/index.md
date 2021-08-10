@@ -67,7 +67,7 @@ sections:
     col_number: three
     grid_items:
       - title: Business design
-        image: images/service-1.svg
+        image: /images/Logos (1).png
         content: |-
           - Research and insight
           - Business innovation and transformation

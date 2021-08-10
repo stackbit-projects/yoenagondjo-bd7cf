@@ -33,7 +33,7 @@ sections:
         image_alt: Logo d'Ogooué Labs
         title: Ogooué Labs
         subtitle: Laboratoire d'Innovation
-      - image: images/logo-3.svg
+      - image: /images/Logo de Esct Gabon.png
         image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4

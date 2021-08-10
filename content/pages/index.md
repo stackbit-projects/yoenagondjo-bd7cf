@@ -46,28 +46,16 @@ sections:
     grid_items:
       - title: Business design
         image: /images/Logos (1).png
-        content: >
+        content: |
           *   Recherche et perspicacité
 
-
-          *   Innovation et transformation de l'entreprise
-
+          *   Innovation et transformation de l'entreprise 
 
           *   Marque et stratégie
 
-
           *   Stratégie de conception
 
-
           *   Stratégie digitale et expérience
-
-
-          *   *   Naming*   Identité de marque*   Systèmes de conception*  
-          Développement de concept*   Implantation et gestion de la marque*  
-          Typographie
-
-
-          *
       - title: Brand design
         image: /images/Logos (6).png
         content: |

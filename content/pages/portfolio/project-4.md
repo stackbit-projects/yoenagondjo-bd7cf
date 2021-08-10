@@ -3,7 +3,7 @@ title: Je Consomme Gabonais
 subtitle: Flyer & Bannière Publicitaire
 date: '2021-05-13'
 thumb_image: /images/JCG - Banner.png
-thumb_image_alt: Flyer Je Consomme Gabonais
+thumb_image_alt: Flyer du groupe Je Consomme Gabonais
 sections:
   - type: image_section
     image: images/work-book-1.jpg

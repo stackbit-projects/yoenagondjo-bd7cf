@@ -87,17 +87,17 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Développement Web & Autres Outils
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Création de sites web avec HTML 5 et CSS 3
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         type: grid_item
       - title: lorem-ipsum

@@ -3,7 +3,7 @@ title: Ntchaga - Akéwani
 subtitle: Logo & Flyers
 date: '2021-06-17'
 thumb_image: /images/Logo - NTCHAGA (7).png
-thumb_image_alt: 'Logo de Ntchaga '
+thumb_image_alt: Logo de Ntchaga - Akéwani
 sections:
   - type: image_section
     image: images/work-book-cover-1.jpg

@@ -1,6 +1,6 @@
 ---
 title: Journal
-subtitle: ' Nouvelles, Conseils & Faits saillants'
+subtitle: ' Nouvelles, Conseils & Faits Saillants'
 hide_title: false
 col_number: three
 seo:

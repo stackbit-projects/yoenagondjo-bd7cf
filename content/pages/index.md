@@ -29,10 +29,6 @@ sections:
         subtitle: Startup Studio
         title: Start X 241
         actions: []
-      - image: /images/Logo de Ogooué Labs.png
-        image_alt: Logo d'Ogooué Labs
-        title: Ogooué Labs
-        subtitle: Laboratoire d'Innovation
       - image: /images/Logo de Esct Gabon.png
         image_alt: Logo d'ESCT Gabon
         title: Esct Gabon

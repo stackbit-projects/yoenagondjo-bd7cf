@@ -1,6 +1,6 @@
 ---
 title: Women of Impact Academy
-subtitle: Flyers d'évènement
+subtitle: Flyers
 date: '2021-08-03'
 thumb_image: /images/WIA - Flyer Campagne.png
 thumb_image_alt: Flyer d'une compagne de WIA

@@ -93,7 +93,7 @@ sections:
 
           Dans ma formation de Designer Web Marketing Digital, j'ai eu à toucher
           au Développement Web et à plusieurs outils de gestion dans lesquels
-          j'excelle. 
+          j'excelle.
 
 
           *   Création de sites web avec HTML 5 et CSS 3
@@ -101,6 +101,8 @@ sections:
           *   Création de sites web avec Bootstrap
 
           *   Création de sites web avec Jekyll & WebFlow
+
+          *
         actions: []
         type: grid_item
       - title: lorem-ipsum

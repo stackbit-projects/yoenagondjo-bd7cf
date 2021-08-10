@@ -77,7 +77,7 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - title: Brand design
-        image: images/service-2.svg
+        image: /images/Logos (2).png
         content: |-
           - Brand development
           - Naming

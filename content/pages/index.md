@@ -45,7 +45,7 @@ sections:
         image_alt: Logo 5
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        image_alt: 'École '
+        image_alt: École d'Informatique
         actions: []
         type: grid_item
   - type: grid_section

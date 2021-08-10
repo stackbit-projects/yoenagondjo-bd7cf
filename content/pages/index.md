@@ -41,7 +41,7 @@ sections:
         image_alt: Logo de Women of Impact Academy
         title: Women of Impact Academy
         subtitle: Bilingual Leadership Academy
-      - image: images/logo-5.svg
+      - image: /images/Logo de Women Of Impact Organization.png
         image_alt: Logo 5
         title: Women of Impact Organization
         subtitle: Centre de Formation pour les Commerçants et Artisans

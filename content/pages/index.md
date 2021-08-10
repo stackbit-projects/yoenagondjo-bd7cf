@@ -89,18 +89,18 @@ sections:
           ## Développement Web & Autres Outils
 
 
-          Dans ma formation de Designer Web Marketing Digital, j'ai eu à toucher
-          au Développement Web et à plusieurs outils de gestion dans lesquels
-          j'excelle.
+          ##### Dans ma formation de Designer Web Marketing Digital, j'ai eu à
+          toucher au Développement Web et à plusieurs outils de gestion dans
+          lesquels j'excelle.
 
 
           *   Création de sites web avec HTML 5 et CSS 3
 
+
           *   Création de sites web avec Bootstrap
 
-          *   Création de sites web avec Jekyll & WebFlow
 
-          *
+          *   Création de sites web avec Jekyll & WebFlow
         actions: []
         type: grid_item
         image: /images/marvelous-mars.png

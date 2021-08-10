@@ -86,7 +86,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Experience design
+      - title: Développement Web
         image: /images/Logos (5).png
         content: |-
           - Digital product design

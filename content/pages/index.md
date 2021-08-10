@@ -105,6 +105,7 @@ sections:
           *
         actions: []
         type: grid_item
+        image: /images/marvelous-mars.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum

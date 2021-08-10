@@ -72,12 +72,19 @@ sections:
         image: /images/Logos (5).png
         content: |
           *   Création de sites web avec HTML 5 et CSS 3
+
           *   Création de sites web avec Bootstrap
+
           *   Création de sites web avec Jekyll & WebFlow
+
           *   Prototypage avec Adobe XD
+
           *   Gestion de projets avec Trello
+
           *   Prise en main de Office Suite & Google Suite
+
           *   Cours sur Canva
+
           *   Cours sur WordPress
     title: Quelques super pouvoirs révélés
   - type: testimonials_section

@@ -3,7 +3,7 @@ title: Lops Consulting
 subtitle: Logo
 date: '2021-06-17'
 thumb_image: /images/Logo - Lops.png
-thumb_image_alt: The Book preview
+thumb_image_alt: Logo de Lops Consulting
 sections:
   - type: image_section
     image: images/work-book-cover-1.jpg

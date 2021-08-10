@@ -46,14 +46,7 @@ sections:
     grid_items:
       - title: Business design
         image: /images/Logos (1).png
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: "*   Recherche et perspicacité\n\n*\r    Innovation et transformation de l'entreprise\n\n*\r    Marque et stratégie\n\n*   Stratégie de conception\n\n*\r    Stratégie digitale et expérience\n\n*\r    Stratégie de communication\n"
       - title: Brand design
         image: /images/Logos (6).png
         content: |-

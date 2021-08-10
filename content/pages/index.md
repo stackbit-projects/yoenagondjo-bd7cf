@@ -24,7 +24,7 @@ sections:
     subtitle: Les clients et partenaires avec lesquels je suis fier de travailler
     col_number: three
     grid_items:
-      - image: /images/3.svg
+      - image: /images/Logo de Start X 241.png
         image_alt: Logo de Start X 241
         subtitle: Startup Studio
         title: Start X 241

@@ -34,7 +34,7 @@ sections:
         title: Ogooué Labs
         subtitle: Laboratoire d'Innovation
       - image: /images/Logo de Esct Gabon.png
-        image_alt: Logo 3
+        image_alt: Logo d'ESCT Gabon
         title: Esct Gabon
         subtitle: École Supérieure de Commerce et de Technologie
       - image: images/logo-4.svg

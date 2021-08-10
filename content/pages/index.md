@@ -38,7 +38,7 @@ sections:
         title: Esct Gabon
         subtitle: École Supérieure de Commerce et de Technologie
       - image: /images/Logo de Women Of Impact Academy.png
-        image_alt: Logo 4
+        image_alt: Logo de Women of Impact Academy
         title: Women of Impact Academy
         subtitle: Bilingual Leadership Academy
       - image: images/logo-5.svg

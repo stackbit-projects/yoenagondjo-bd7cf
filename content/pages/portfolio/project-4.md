@@ -3,7 +3,7 @@ title: Nature Mockup Magazine
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: /images/JCG - Banner.png
-thumb_image_alt: Nature Mockup Magazine preview
+thumb_image_alt: Je Consomme
 sections:
   - type: image_section
     image: images/work-book-1.jpg

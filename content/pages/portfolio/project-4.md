@@ -1,6 +1,6 @@
 ---
 title: Nature Mockup Magazine
-subtitle: Editorial Design
+subtitle: Flyer
 date: '2020-05-10'
 thumb_image: /images/JCG - Banner.png
 thumb_image_alt: Je Consomme Gabonais

@@ -25,7 +25,7 @@ sections:
     col_number: three
     grid_items:
       - image: /images/Start X 241 - Logo.png
-        image_alt: Logo 1
+        image_alt: 'Logo de Start '
         subtitle: Startup Studio
         title: Start X 241
       - image: images/logo-2.svg

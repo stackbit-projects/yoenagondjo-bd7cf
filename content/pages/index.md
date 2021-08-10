@@ -40,7 +40,7 @@ sections:
       - image: /images/Logo de Women Of Impact Academy.png
         image_alt: Logo 4
         title: Women of Impact Academy
-        subtitle: Bilingual leadership Academy
+        subtitle: Bilingual Leadership Academy
       - image: images/logo-5.svg
         image_alt: Logo 5
   - type: grid_section

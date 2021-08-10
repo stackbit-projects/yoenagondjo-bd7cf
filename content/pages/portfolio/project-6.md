@@ -2,7 +2,7 @@
 title: HPB Agro-Consulting
 subtitle: Logo
 date: '2021-02-02'
-thumb_image: /images/ELS - Affiche publicitaire.jpg
+thumb_image: /images/Carte de visite - Nicaise Tchibinda (1) (2) (1).png
 thumb_image_alt: Logo de HBP Agro-Consulting
 sections:
   - type: image_section

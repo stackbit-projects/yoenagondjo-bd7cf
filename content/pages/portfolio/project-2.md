@@ -1,6 +1,6 @@
 ---
 title: Start X 241
-subtitle: Brand Development
+subtitle: Bannière Publicitaire
 date: '2020-03-10'
 thumb_image: /images/Start X 241 - LinkedIn.png
 thumb_image_alt: Aimi preview

@@ -1,5 +1,5 @@
 ---
-title: Lops Consulting
+title: Ntchaga
 subtitle: Logo & Flyers
 date: '2021-06-17'
 thumb_image: /images/Logo - NTCHAGA (7).png

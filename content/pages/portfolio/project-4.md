@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Je Consomme Gabonais
 subtitle: Flyer & Bannière Publicitaire
 date: '2021-05-13'
 thumb_image: /images/JCG - Banner.png

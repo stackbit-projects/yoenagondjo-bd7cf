@@ -24,7 +24,7 @@ sections:
     subtitle: Les clients et partenaires avec lesquels je suis fier de travailler
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/Start X 241 - Logo.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2

@@ -84,8 +84,7 @@ sections:
           *   Cours sur Canva
 
           *   Cours sur WordPress
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
           ## Développement Web & Autres Outils

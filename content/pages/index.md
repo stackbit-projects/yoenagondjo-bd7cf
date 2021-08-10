@@ -97,7 +97,9 @@ sections:
 
           *   Création de sites web avec HTML 5 et CSS 3
 
-          *   dolor sit amet
+          *   Création de sites web avec Bootstrap
+
+          *
         actions: []
         type: grid_item
       - title: lorem-ipsum

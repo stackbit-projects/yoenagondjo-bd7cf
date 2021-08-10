@@ -27,6 +27,7 @@ sections:
       - image: /images/Start X 241 - Logo.png
         image_alt: Logo 1
         subtitle: Logo
+        title: Start X 241
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg

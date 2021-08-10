@@ -43,7 +43,7 @@ sections:
         subtitle: Bilingual Leadership Academy
       - image: images/logo-5.svg
         image_alt: Logo 5
-        title: École 241 Business
+        title: Women of Impact Organization
         subtitle: Centre de Formation pour les Commerçants et Artisans
       - title: École 241
         subtitle: École de Formation aux Métiers du Numérique

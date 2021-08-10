@@ -64,7 +64,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: 'Développement Web '
+      - title: Développement Web & Autres Outils
         image: /images/Logos (5).png
         content: |
           *   Création de sites web avec HTML 5 et CSS 3

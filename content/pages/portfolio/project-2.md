@@ -1,7 +1,7 @@
 ---
 title: Start X 241
 subtitle: Bannière Publicitaire
-date: '2020-03-28'
+date: '2020-02-28'
 thumb_image: /images/Start X 241 - LinkedIn.png
 thumb_image_alt: Bannière publicitaire de Start X 241
 sections:

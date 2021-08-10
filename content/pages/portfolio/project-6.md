@@ -2,7 +2,7 @@
 title: HPB Agro-Consulting
 subtitle: Logo
 date: '2021-02-02'
-thumb_image: /images/Logo - HPB Agro Consulting.png
+thumb_image: /images/ELS - Affiche publicitaire.jpg
 thumb_image_alt: Logo de HBP Agro-Consulting
 sections:
   - type: image_section

@@ -1,6 +1,6 @@
 ---
 title: Lops Consulting
-subtitle: Logo
+subtitle: Logo & Flyers
 date: '2021-06-17'
 thumb_image: /images/Logo - NTCHAGA (7).png
 thumb_image_alt: Logo de Lops Consulting

@@ -23,7 +23,7 @@ sections:
   - type: image_section
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
-    width: wide
+    width: regular
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa

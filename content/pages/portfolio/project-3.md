@@ -1,7 +1,7 @@
 ---
 title: Lops Consulting
 subtitle: Logo
-date: '2020-04-10'
+date: '2021-06-10'
 thumb_image: /images/Logo - Lops.png
 thumb_image_alt: The Book preview
 sections:

@@ -46,7 +46,7 @@ sections:
         title: École 241 Business
         subtitle: Centre de formation pour les commerçants et artisans
       - title: École 241
-        subtitle: École de Formation aux métiers du numérique
+        subtitle: École de Formation aux métiers du Numérique
         image_alt: École d'Informatique
         actions: []
         type: grid_item

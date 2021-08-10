@@ -28,6 +28,14 @@ sections:
         image_alt: Logo de Start X 241
         subtitle: Startup Studio
         title: Start X 241
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg

@@ -32,6 +32,7 @@ sections:
       - image: /images/Logo de Ogooué Labs.png
         image_alt: Logo 2
         title: Ogooué Labs
+        subtitle: Laboratoire d'Innovation
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg

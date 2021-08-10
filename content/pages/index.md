@@ -43,6 +43,7 @@ sections:
         subtitle: Bilingual Leadership Academy
       - image: images/logo-5.svg
         image_alt: Logo 5
+        title: École 241 Business
       - title: École 241
         subtitle: École de formation numérique
         image_alt: École d'Informatique
